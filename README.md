@@ -11,7 +11,13 @@ Learn more about the `ChainstackProvider` and which chains are supported on the 
 Clone this repository:
 
 ```sh
-git clone
+git clone https://github.com/chainstacklabs/ethers-chainstackprovider-demo-nextjs.git
+```
+
+Move into the Next app:
+
+```sh
+cd chainstackprovider-demo
 ```
 
 Install dependencies:
